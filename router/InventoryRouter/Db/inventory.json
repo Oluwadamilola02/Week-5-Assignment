@@ -1,0 +1,10 @@
+[
+  { "Name": "books", "Price": "$50", "size": "L", "id": 1 },
+  { "Name": "biro", "Price": "$20", "size": "s", "id": 2 },
+  { "Name": "dusters", "Price": "$30", "size": "s", "id": 3 },
+  { "Name": "desks", "Price": "$20", "size": "m", "id": 4 },
+  { "Name": "white board", "Price": "$20", "size": "l", "id": 5 },
+  { "Name": "chalk", "Price": "$20", "size": "l", "id": 6 },
+  { "Name": "water bottle", "Price": "$20", "size": "l", "id": 7 },
+  { "Name": "marker", "Price": "$60", "size": "L", "id": 8 }
+]
